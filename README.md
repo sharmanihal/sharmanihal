@@ -87,7 +87,7 @@
 
 <br />
 
-<details>
+<d>
 
   <summary><h2> 📌🏴  Coding Profiles </h2></summary>
 
@@ -96,7 +96,7 @@
 
 <a href="https://leetcode.com/sharmanihal96/" ><img style="height:25px" src = "https://img.shields.io/static/v1?message=Leet%20Code&logo=LeetCode&labelColor=05122A&color=05122A&logoColor=FFA116&label=%20&style=plastic"/></a>
 
-</details>
+</d>
 
 
 
