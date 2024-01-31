@@ -14,7 +14,7 @@
 - 🔧 I’m currently working on ... competitive coding.
 
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...React.
+- 📖 I’m currently learning ...Cloud.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...sharmanihal96@gmail.com.
 
