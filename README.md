@@ -111,7 +111,7 @@
 ## &nbsp; &nbsp; &nbsp;🔥 My Motto
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(sharmanihal96);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 
 
@@ -144,7 +144,6 @@
  
   <div>
     
-<a href="https://www.buymeacoffee.com/gkaustav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" ></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://ko-fi.com/F1F1BRCNJ"><img src = "https://ko-fi.com/img/githubbutton_sm.svg"/></a>
     
   </div>
  </div>
