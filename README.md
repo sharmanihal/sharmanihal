@@ -25,28 +25,6 @@
 </br>
 
 
-<table width="100%" >
-
- <tr>
-    <td width="60%">
-     
-
- 
-
-
-
-
-
-
-  
-## 📄📜 Stats
-
-
-     
-  </td>
- </tr>
-</table>
-
 
 
 
